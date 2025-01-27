@@ -1,0 +1,44 @@
+sno,date of event,country,loc_list,loc_list_a,reported region/places,row_idx,report type
+63,20241204,Somalia,Lower Shabelle (Juba camp in Weydow,Lower Shabelle (Juba camp in Weydow,"Lower Shabelle (Juba camp in Weydow, Garasbaley district)",fl_0,Drought Impact Report
+63,20241204,Somalia, Garasbaley district),Garasbaley district),"Lower Shabelle (Juba camp in Weydow, Garasbaley district)",fl_1,Drought Impact Report
+106,20241117,Somalia,East Africa,East Africa,East Africa,fl_2,1 - ongoing event
+145,20241026,South Sudan,Various regions,Various regions,"Various regions, communities on higher ground",fl_3,UN Report
+145,20241026,South Sudan, communities on higher ground,communities on higher ground,"Various regions, communities on higher ground",fl_4,UN Report
+174,20241018,South Sudan,42 counties,42 counties,"42 counties, Abyei, Northern Bahr el Ghazal, Unity",fl_5,South Sudan Floods Snapshot
+174,20241018,South Sudan, Abyei,Abyei,"42 counties, Abyei, Northern Bahr el Ghazal, Unity",fl_6,South Sudan Floods Snapshot
+174,20241018,South Sudan, Northern Bahr el Ghazal,Northern Bahr el Ghazal,"42 counties, Abyei, Northern Bahr el Ghazal, Unity",fl_7,South Sudan Floods Snapshot
+174,20241018,South Sudan, Unity,Unity,"42 counties, Abyei, Northern Bahr el Ghazal, Unity",fl_8,South Sudan Floods Snapshot
+175,20241017,South Sudan,38 counties,38 counties,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_9,South Sudan Floods - Emergency Appeal (MDRSS014)
+175,20241017,South Sudan, Jonglei,Jonglei,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_10,South Sudan Floods - Emergency Appeal (MDRSS014)
+175,20241017,South Sudan, Northern Bahr el Ghazal,Northern Bahr el Ghazal,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_11,South Sudan Floods - Emergency Appeal (MDRSS014)
+175,20241017,South Sudan, Unity,Unity,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_12,South Sudan Floods - Emergency Appeal (MDRSS014)
+175,20241017,South Sudan, Upper Nile,Upper Nile,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_13,South Sudan Floods - Emergency Appeal (MDRSS014)
+175,20241017,South Sudan, Warrap,Warrap,"38 counties, Jonglei, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap",fl_14,South Sudan Floods - Emergency Appeal (MDRSS014)
+176,20241019,South Sudan,Northern Bahr el Ghazal,Northern Bahr el Ghazal,"Northern Bahr el Ghazal, Unity, 42 counties across South Sudan",fl_15,Over 1 million people affected by flooding in South Sudan
+176,20241019,South Sudan, Unity,Unity,"Northern Bahr el Ghazal, Unity, 42 counties across South Sudan",fl_16,Over 1 million people affected by flooding in South Sudan
+176,20241019,South Sudan, 42 counties across South Sudan,42 counties across South Sudan,"Northern Bahr el Ghazal, Unity, 42 counties across South Sudan",fl_17,Over 1 million people affected by flooding in South Sudan
+178,20241018,South Sudan,South Sudan,South Sudan,South Sudan,fl_18,Satellite Image Report
+217,20241001,Somalia,National,National,"National, Somalia",fl_19,Drought Risk
+217,20241001,Somalia, Somalia,Somalia,"National, Somalia",fl_20,Drought Risk
+231,20241002,South Sudan,Mangar Ajak,Mangar Ajak,"Mangar Ajak, Gogrial West County",fl_21,Flood Displacement
+231,20241002,South Sudan, Gogrial West County,Gogrial West County,"Mangar Ajak, Gogrial West County",fl_22,Flood Displacement
+232,20241001,South Sudan,Akon International Airport,Akon International Airport,"Akon International Airport, Gogrial West County, Warrap State",fl_23,Floods
+232,20241001,South Sudan, Gogrial West County,Gogrial West County,"Akon International Airport, Gogrial West County, Warrap State",fl_24,Floods
+232,20241001,South Sudan, Warrap State,Warrap State,"Akon International Airport, Gogrial West County, Warrap State",fl_25,Floods
+233,20241001,South Sudan,South Sudan (White Nile,South Sudan (White Nile,South Sudan (White Nile and Tributaries),fl_26,Flood Assistance
+233,20241001,South Sudan,Tributaries),Tributaries),South Sudan (White Nile and Tributaries),fl_27,Flood Assistance
+234,20241003,South Sudan,Nationwide (Jonglei,Nationwide (Jonglei,"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_28,National Disaster Declaration
+234,20241003,South Sudan, Upper Nile,Upper Nile,"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_29,National Disaster Declaration
+234,20241003,South Sudan, Unity,Unity,"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_30,National Disaster Declaration
+234,20241003,South Sudan, Warrap,Warrap,"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_31,National Disaster Declaration
+234,20241003,South Sudan, Northern Bahr El Ghazal,Northern Bahr El Ghazal,"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_32,National Disaster Declaration
+234,20241003,South Sudan, Abyei),Abyei),"Nationwide (Jonglei, Upper Nile, Unity, Warrap, Northern Bahr El Ghazal, Abyei)",fl_33,National Disaster Declaration
+236,20240919,Ethiopia,Addis Ababa,Addis Ababa,"Addis Ababa, rural areas of Ethiopia",fl_34,Flood Warning Testing
+236,20240919,Ethiopia, rural areas of Ethiopia,rural areas of Ethiopia,"Addis Ababa, rural areas of Ethiopia",fl_35,Flood Warning Testing
+257,20240812,Ethiopia,Gambella Region (4 districts),Gambella Region (4 districts),Gambella Region (4 districts),fl_36,Flooding in Western Ethiopia
+258,20240908,Kenya,Kajiado,Kajiado,"Kajiado, Laikipia",fl_37,Drought affecting Maasai and other cattle herders
+258,20240908,Kenya, Laikipia,Laikipia,"Kajiado, Laikipia",fl_38,Drought affecting Maasai and other cattle herders
+259,20240907,Kenya,Kilifi (Mariakani Ward),Kilifi (Mariakani Ward),Kilifi (Mariakani Ward),fl_39,Drought affecting farmers in Kilifi
+262,202409,South Sudan,Lakes State,Lakes State,"Lakes State, Unity State, Sudd region",fl_40,Floods causing mass population displacement
+262,202409,South Sudan, Unity State,Unity State,"Lakes State, Unity State, Sudd region",fl_41,Floods causing mass population displacement
+262,202409,South Sudan, Sudd region,Sudd region,"Lakes State, Unity State, Sudd region",fl_42,Floods causing mass population displacement
