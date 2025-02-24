@@ -1,0 +1,10 @@
+notebook
+jupyterlab
+ipykernel
+pandas 
+numpy
+matplotlib 
+geopandas
+shapely 
+fiona
+pyproj
